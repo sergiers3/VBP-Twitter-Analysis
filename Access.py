@@ -7,12 +7,12 @@ class Access:
 
         #Consumer key's
         # Dagotron, for stalk twitter...
-        self.consumer_key = 'PRcnn5NcUlhgvjKbB1v06A'
-        self.consumer_secret = 'bPLuwQFkCf6PNRF7mqnD4zE0mw0iBL9K7elp7DQOzRc'
+        self.consumer_key = ''
+        self.consumer_secret = ''
 
         # ...or another bot just in case it get banned by twitter gestapo
-        #self.consumer_key = 'MlM2JCq4gKu6yfhLgKNsqW0qS'
-        #self.consumer_secret = 'g9CPaRNFmbjIcrS8lDpZWgYHRI2Jm5T169rz9M3mM1yhISVZfz'
+        #self.consumer_key = ''
+        #self.consumer_secret = ''
 
 
 
