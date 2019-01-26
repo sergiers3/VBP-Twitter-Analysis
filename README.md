@@ -1,3 +1,9 @@
+# VBP
+
+This repository contains the code to make an analysis of tweets for the subject VBP using Python and Tweepy.
+
+## Usage:
+
 @candidate
 list: keyword
 
